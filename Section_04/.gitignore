@@ -57,6 +57,9 @@ Build/*
 # StarterContent
 Content/StarterContent/*
 
+# Big Maps
+Content/Levels/*
+
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
